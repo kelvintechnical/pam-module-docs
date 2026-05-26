@@ -1,11 +1,11 @@
 # Lab: Read PAM Module Documentation (`pam_securetty.so`)
 
-**Series:** linux-ops-mastery — RHCSA TCP Wrappers & PAM
-**Subjects covered:** Linux-PAM documentation layout (`/usr/share/doc/pam*/`), **`man pam_securetty`**, **`pam_securetty.so`** purpose (root TTY allowlist), relationship to **`/etc/securetty`**, `zgrep` / `less` navigation in compressed docs, **authselect** awareness on RHEL 9
-**Career arcs covered:** RHCSA (PAM module literacy), RHCE (hardening playbooks), SRE (root login policy), DevOps (golden image audits), AI (reducing hallucinated module args)
-**Prerequisite:** Lab 72 — Explore PAM Config Files
-**Time Estimate:** 30 to 45 minutes
-**Difficulty arc:** Task 1 locate doc dirs · 2–3 read shipped README/txt · 4 man page deep read · 5 map to `/etc/securetty` · 6 capstone + cleanup
+- **Series:** linux-ops-mastery — RHCSA TCP Wrappers & PAM
+- **Subjects covered:** Linux-PAM documentation layout (`/usr/share/doc/pam*/`), **`man pam_securetty`**, **`pam_securetty.so`** purpose (root TTY allowlist), relationship to **`/etc/securetty`**, `zgrep` / `less` navigation in compressed docs, **authselect** awareness on RHEL 9
+- **Career arcs covered:** RHCSA (PAM module literacy), RHCE (hardening playbooks), SRE (root login policy), DevOps (golden image audits), AI (reducing hallucinated module args)
+- **Prerequisite:** Lab 72 — Explore PAM Config Files
+- **Time Estimate:** 30 to 45 minutes
+- **Difficulty arc:** Task 1 locate doc dirs · 2–3 read shipped README/txt · 4 man page deep read · 5 map to `/etc/securetty` · 6 capstone + cleanup
 
 ---
 
